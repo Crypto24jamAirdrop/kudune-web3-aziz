@@ -1,3 +1,5 @@
+# Commit ke-7
+Latihan terus sampai sepuluh.
 # Commit ke-9
 Hampir selesai, tinggal satu lagi.
 # Commit ke-10
