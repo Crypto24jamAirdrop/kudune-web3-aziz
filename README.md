@@ -1,3 +1,5 @@
+# Commit ke-3
+Tambah baris untuk commit ketiga.
 # Commit ke-4
 Perubahan kecil untuk latihan.
 # Commit ke-5
