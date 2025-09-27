@@ -9,3 +9,5 @@ Latihan commit kedua.
 Selesai sudah, total 10 commit.
 # Commit ke-10
 Selesai sudah, total 10 commit.
+# Commit ke-8
+Nyoba lagi bikin commit.
