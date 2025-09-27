@@ -1,3 +1,5 @@
+# Commit ke-9
+Hampir selesai, tinggal satu lagi.
 # Commit ke-10
 Selesai sudah, total 10 commit.
 
