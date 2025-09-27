@@ -1,3 +1,5 @@
+# Commit ke-6
+Testing lagi commit.
 # Commit ke-7
 Latihan terus sampai sepuluh.
 # Commit ke-9
